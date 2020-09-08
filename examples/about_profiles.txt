@@ -1,0 +1,5 @@
+INFO:
+
+Distance between profiles: 50 cm.
+
+Average velocity: 11-12 cm/ns.
