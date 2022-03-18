@@ -1,7 +1,7 @@
 # toGPRi
 A tiny GNU Octave ground-penetrating radar integration of tools. 
 
-toGPRi v1 tools have been created for primarily analyzing RAMAC©1 ground-penetrating radar data and for building 3D matrices to generate georeferencied rasters of underground elements2.
+toGPRi v1 tools have been created for primarily analyzing RAMAC© ground-penetrating radar data and for building 3D matrices to generate georeferencied rasters of underground elements.
 
 toGPRi v1 is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
