@@ -9,7 +9,7 @@ toGPRi v1 is distributed in the hope that it will be useful, but WITHOUT ANY WAR
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Copyright 2016 Javier Sanjurjo Pinto <jsanjurjo@jspinto.net>.
+Copyright 2016 Javier Sanjurjo Pinto <javier.sanjurjo.p@gmail.com>.
 
 What the toGPRi v1 tools can do?
 
